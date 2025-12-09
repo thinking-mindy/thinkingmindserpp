@@ -212,7 +212,7 @@
 
 > 📌 **Note**: This repository tracks updates and improvements. See what's new in each version below.
 
-### 🎯 Version 5.0.0 (Current Release)
+### 🎯 Version 1.0.0 (Current Release)
 
 <details>
 <summary><b>🔒 Security Updates</b></summary>
