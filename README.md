@@ -13,13 +13,13 @@
 
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
 [![Price](https://img.shields.io/badge/Price-$149_USD-success?style=for-the-badge)](https://thinkingminds.co.zw)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://thinking-minds-demo.vercel.app)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://erp.thinkingminds.co.zw)
 
 ---
 
 **Quick Links:** [✨ Features](#-features) • [💰 Pricing](#-pricing) • [📝 Changelog](#-changelog) • [🆘 Support](#-support)
 
-[🚀 Live Demo](https://thinking-minds-demo.vercel.app) • [🌐 Website](https://thinkingminds.co.zw) • [📧 Contact](mailto:support@thinkingminds.co.zw)
+[🚀 Live App](https://erp.thinkingminds.co.zw) • [🌐 Website](https://thinkingminds.co.zw) • [📧 Email](mailto:thinkingminds@gmail.com) • [📱 WhatsApp](https://wa.me/263771657582)
 
 </div>
 
@@ -191,17 +191,18 @@
 </td>
 <td align="center">
 
-#### 🚀 **Try Before You Buy**
+#### 🚀 **Get Started**
 
-- 🌐 **Live Demo**: [thinking-minds-demo.vercel.app](https://thinking-minds-demo.vercel.app)
-- 📧 **Questions?**: support@thinkingminds.co.zw
-- 💬 **Get in Touch**: [Website](https://thinkingminds.co.zw)
+- 🌐 **Live App**: [erp.thinkingminds.co.zw](https://erp.thinkingminds.co.zw)
+- 📧 **Email**: thinkingminds@gmail.com
+- 📱 **WhatsApp/Call**: +263771657582
+- 💬 **Website**: [thinkingminds.co.zw](https://thinkingminds.co.zw)
 
 </td>
 </tr>
 </table>
 
-**💳 Ready to transform your business?** [Contact us today!](mailto:support@thinkingminds.co.zw)
+**💳 Ready to transform your business?** [Contact us today!](mailto:thinkingminds@gmail.com)
 
 </div>
 
@@ -273,19 +274,25 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-#### 📧 **Email Support**
-[support@thinkingminds.co.zw](mailto:support@thinkingminds.co.zw)
+#### 📧 **Email**
+[thinkingminds@gmail.com](mailto:thinkingminds@gmail.com)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+
+#### 📱 **WhatsApp/Call**
+[+263771657582](https://wa.me/263771657582)
+
+</td>
+<td align="center" width="25%">
 
 #### 🌐 **Website**
 [thinkingminds.co.zw](https://thinkingminds.co.zw)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 #### 🐛 **Report Issues**
 [GitHub Issues](https://github.com/thinking-mindy/thinkingmindserp/issues)
@@ -346,17 +353,20 @@ Powered by modern web technologies including Next.js, React, and Material-UI
 <a href="https://github.com/thinking-mindy/thinkingmindserp">💻 GitHub</a>
 </td>
 <td align="center">
-<a href="https://thinking-minds-demo.vercel.app">🚀 Live Demo</a>
+<a href="https://erp.thinkingminds.co.zw">🚀 Live App</a>
 </td>
 <td align="center">
-<a href="mailto:support@thinkingminds.co.zw">📧 Contact</a>
+<a href="mailto:thinkingminds@gmail.com">📧 Email</a>
+</td>
+<td align="center">
+<a href="https://wa.me/263771657582">📱 WhatsApp</a>
 </td>
 </tr>
 </table>
 
 ### 💰 **Purchase Thinking Minds ERP for $149 USD**
 
-[Get Started Today →](mailto:support@thinkingminds.co.zw)
+[Get Started Today →](mailto:thinkingminds@gmail.com)
 
 ---
 
