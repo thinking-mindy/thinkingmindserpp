@@ -1,351 +1,369 @@
-# Thinking Minds ERP
-
 <div align="center">
+
+# 🧠 Thinking Minds ERP
 
 ![Thinking Minds ERP](public/minds2.png)
 
-**A comprehensive, secure, and modern Enterprise Resource Planning (ERP) solution**
+### **A comprehensive, secure, and modern Enterprise Resource Planning solution**
 
-[![Next.js](https://img.shields.io/badge/Next.js-15.5.7-black)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-19.0-blue)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Latest-blue)](https://www.typescriptlang.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-6.20-green)](https://www.mongodb.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-15.5.7-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Latest-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-6.20-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-[Features](#-features) • [Installation](#-installation) • [Documentation](#-documentation) • [Changelog](#-changelog) • [Contributing](#-contributing)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
+[![Price](https://img.shields.io/badge/Price-$149_USD-success?style=for-the-badge)](https://thinkingminds.co.zw)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://thinking-minds-demo.vercel.app)
+
+---
+
+**Quick Links:** [✨ Features](#-features) • [💰 Pricing](#-pricing) • [📝 Changelog](#-changelog) • [🆘 Support](#-support)
+
+[🚀 Live Demo](https://thinking-minds-demo.vercel.app) • [🌐 Website](https://thinkingminds.co.zw) • [📧 Contact](mailto:support@thinkingminds.co.zw)
 
 </div>
 
 ---
 
-## 📖 Introduction
+## 🎯 What is Thinking Minds ERP?
 
-**Thinking Minds ERP** is a full-featured, cloud-based Enterprise Resource Planning system designed to streamline business operations across multiple departments. Built with modern web technologies, it provides a unified platform for managing HR, Finance, Inventory, Procurement, IT assets, and more.
+**Thinking Minds ERP** is a powerful, all-in-one Enterprise Resource Planning system that transforms how businesses manage their operations. Built with cutting-edge technology, it provides a unified platform that integrates seamlessly across all departments—from HR and Finance to Inventory and Sales.
 
-### Key Highlights
+### 🌟 Why Choose Thinking Minds ERP?
 
-- 🚀 **Modern Tech Stack**: Built with Next.js 15, React 19, and TypeScript
-- 🔒 **Enterprise Security**: Clerk authentication, audit logs, and compliance features
-- 📊 **Real-time Analytics**: Advanced reporting and data visualization
-- 🌍 **Multi-currency Support**: Handle transactions in multiple currencies
-- 📱 **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
-- 🎨 **Beautiful UI**: Material-UI components with dark mode support
+<table>
+<tr>
+<td width="50%">
+
+#### ⚡ **Performance**
+- Lightning-fast response times
+- Real-time data synchronization
+- Optimized for scale
+
+#### 🔒 **Security**
+- Enterprise-grade encryption
+- Comprehensive audit trails
+- Role-based access control
+
+</td>
+<td width="50%">
+
+#### 📊 **Analytics**
+- Advanced reporting tools
+- Real-time dashboards
+- Data visualization
+
+#### 🌍 **Global Ready**
+- Multi-currency support
+- Multi-language ready
+- Cloud-based access
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ✨ Features
 
-### Core Modules
+### 🎨 **Complete Business Management Suite**
 
-#### 🏢 **HR & Payroll Management**
-- Employee management and profiles
-- Attendance tracking
-- Payroll processing and payslip generation
-- Leave request management
-- Performance reviews
+<details>
+<summary><b>🏢 HR & Payroll Management</b> - Click to expand</summary>
 
-#### 💰 **Finance & Accounting**
-- Invoice management
-- Payment processing
-- Expense tracking
-- Financial reports and analytics
-- Multi-currency support
-- Cashier management
-- Daily cash summaries
+- 👥 **Employee Management**: Comprehensive employee profiles and database
+- ⏰ **Attendance Tracking**: Real-time attendance monitoring
+- 💵 **Payroll Processing**: Automated payroll and payslip generation
+- 🏖️ **Leave Management**: Streamlined leave request workflows
+- 📈 **Performance Reviews**: Employee evaluation and tracking
+</details>
 
-#### 📦 **Inventory Management**
-- Product catalog management
-- Stock tracking and movements
-- Supplier management
-- Purchase orders
-- Low stock alerts
-- Inventory analytics
+<details>
+<summary><b>💰 Finance & Accounting</b> - Click to expand</summary>
 
-#### 🛒 **Point of Sale (POS)**
-- Real-time sales processing
-- Multiple payment methods (Cash, Ecocash, Paynow)
-- Receipt generation
-- Sales reports
-- Mobile-optimized checkout
+- 📄 **Invoice Management**: Create, track, and manage invoices
+- 💳 **Payment Processing**: Multiple payment gateway integration
+- 📊 **Expense Tracking**: Comprehensive expense management
+- 📈 **Financial Reports**: Advanced analytics and reporting
+- 💱 **Multi-Currency**: Support for multiple currencies with live rates
+- 🏪 **Cashier Management**: Daily cash summaries and transactions
+</details>
 
-#### 🛍️ **Procurement**
-- Purchase order creation and tracking
-- Supplier management
-- Order approval workflows
-- Procurement analytics
+<details>
+<summary><b>📦 Inventory Management</b> - Click to expand</summary>
 
-#### 💼 **CRM & Client Management**
-- Contact management
-- Sales pipeline tracking
-- Client communication history
-- Deal management
+- 📋 **Product Catalog**: Complete product database management
+- 📊 **Stock Tracking**: Real-time inventory monitoring
+- 🏭 **Supplier Management**: Vendor and supplier database
+- 📝 **Purchase Orders**: Automated purchase order workflows
+- ⚠️ **Low Stock Alerts**: Automated notifications
+- 📈 **Inventory Analytics**: Advanced reporting and insights
+</details>
 
-#### 📋 **Project & Task Management**
-- Project creation and tracking
-- Task assignment and deadlines
-- Team collaboration
-- Progress monitoring
+<details>
+<summary><b>🛒 Point of Sale (POS)</b> - Click to expand</summary>
 
-#### 🖥️ **IT & Asset Management**
-- Device inventory
-- Asset tracking
-- Access management
-- System monitoring
+- ⚡ **Real-time Processing**: Instant sales transactions
+- 💳 **Multiple Payment Methods**: Cash, Ecocash, Paynow support
+- 🧾 **Receipt Generation**: Professional receipt printing
+- 📊 **Sales Reports**: Comprehensive sales analytics
+- 📱 **Mobile Optimized**: Full mobile checkout experience
+</details>
 
-#### 🎫 **Helpdesk & Support**
-- Ticket management system
-- Knowledge base
-- User request tracking
-- Support analytics
+<details>
+<summary><b>🛍️ Procurement</b> - Click to expand</summary>
 
-#### 📊 **Reports & Analytics**
-- Customizable dashboards
-- Real-time data visualization
-- Export capabilities (PDF, Excel)
-- Audit logs and compliance reports
+- 📝 **Purchase Orders**: Create and track purchase orders
+- 🏭 **Supplier Management**: Complete supplier database
+- ✅ **Approval Workflows**: Multi-level approval processes
+- 📊 **Procurement Analytics**: Spending and vendor insights
+</details>
 
-#### 🔐 **Security & Compliance**
-- Comprehensive audit logging
-- Role-based access control
-- Data encryption
-- Compliance reporting
+<details>
+<summary><b>💼 CRM & Client Management</b> - Click to expand</summary>
 
----
+- 👤 **Contact Management**: Comprehensive contact database
+- 📈 **Sales Pipeline**: Track deals and opportunities
+- 💬 **Communication History**: Complete interaction logs
+- 🤝 **Deal Management**: Opportunity and deal tracking
+</details>
 
-## 🛠️ Tech Stack
+<details>
+<summary><b>📋 Project & Task Management</b> - Click to expand</summary>
 
-### Frontend
-- **Next.js 15.5.7** - React framework with App Router
-- **React 19** - UI library
-- **TypeScript** - Type safety
-- **Material-UI (MUI)** - Component library
-- **Recharts** - Data visualization
-- **React Query** - Data fetching and caching
+- 📁 **Project Creation**: Organize and manage projects
+- ✅ **Task Assignment**: Assign and track tasks
+- 👥 **Team Collaboration**: Real-time team coordination
+- 📊 **Progress Monitoring**: Visual progress tracking
+</details>
 
-### Backend
-- **Next.js Server Actions** - Server-side logic
-- **MongoDB 6.20** - Database
-- **Clerk** - Authentication and user management
+<details>
+<summary><b>🖥️ IT & Asset Management</b> - Click to expand</summary>
 
-### Additional Libraries
-- **Day.js** - Date manipulation
-- **jsPDF** - PDF generation
-- **QRCode** - QR code generation
-- **Paynow** - Payment gateway integration
-- **Resend** - Email service
+- 💻 **Device Inventory**: Complete IT asset tracking
+- 📦 **Asset Management**: Track all company assets
+- 🔐 **Access Management**: User and permission control
+- 📊 **System Monitoring**: IT infrastructure insights
+</details>
 
----
+<details>
+<summary><b>🎫 Helpdesk & Support</b> - Click to expand</summary>
 
-## 📋 Prerequisites
+- 🎟️ **Ticket Management**: Complete ticketing system
+- 📚 **Knowledge Base**: Self-service documentation
+- 📝 **User Requests**: Request tracking and management
+- 📊 **Support Analytics**: Performance metrics and insights
+</details>
 
-Before you begin, ensure you have the following installed:
+<details>
+<summary><b>📊 Reports & Analytics</b> - Click to expand</summary>
 
-- **Node.js** 18.x or higher
-- **npm** or **pnpm** package manager
-- **MongoDB** database (local or cloud instance)
-- **Clerk** account for authentication
+- 📈 **Customizable Dashboards**: Personalized data views
+- 📊 **Real-time Visualization**: Live data charts and graphs
+- 📄 **Export Capabilities**: PDF and Excel export
+- 🔍 **Audit Logs**: Complete activity tracking
+- ✅ **Compliance Reports**: Regulatory compliance tools
+</details>
 
 ---
 
-## 🚀 Installation
+## 💰 Pricing
 
-### 1. Clone the Repository
+<div align="center">
 
-```bash
-git clone https://github.com/thinking-mindy/thinkingmindserp.git
-cd thinkingmindserp
-```
+### 🎉 **Special Offer: $149 USD**
 
-### 2. Install Dependencies
+**One-time purchase • Lifetime updates • Priority support**
 
-```bash
-npm install --legacy-peer-deps
-```
+<table>
+<tr>
+<td align="center">
 
-> **Note**: The `--legacy-peer-deps` flag is required due to some peer dependency conflicts with React 19.
+#### ✅ **What's Included**
 
-### 3. Environment Variables
+- 🎯 Full access to all 10+ modules
+- 🔄 Lifetime updates and upgrades
+- 🎫 Priority customer support
+- 📚 Complete documentation
+- 🛠️ Setup assistance
+- 🔒 Security updates included
 
-Create a `.env.local` file in the root directory:
+</td>
+<td align="center">
 
-```env
-# Clerk Authentication
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
-CLERK_SECRET_KEY=your_clerk_secret_key
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/dashboard
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/dashboard
+#### 🚀 **Try Before You Buy**
 
-# MongoDB
-MONGODB_URI=your_mongodb_connection_string
+- 🌐 **Live Demo**: [thinking-minds-demo.vercel.app](https://thinking-minds-demo.vercel.app)
+- 📧 **Questions?**: support@thinkingminds.co.zw
+- 💬 **Get in Touch**: [Website](https://thinkingminds.co.zw)
 
-# Application
-NEXT_PUBLIC_APP_URL=http://localhost:3000
+</td>
+</tr>
+</table>
 
-# Paynow (Optional - for payment processing)
-PAYNOW_INTEGRATION_ID=your_paynow_integration_id
-PAYNOW_INTEGRATION_KEY=your_paynow_integration_key
-PAYNOW_SANDBOX=true
+**💳 Ready to transform your business?** [Contact us today!](mailto:support@thinkingminds.co.zw)
 
-# Resend (Optional - for email notifications)
-RESEND_API_KEY=your_resend_api_key
-```
-
-### 4. Database Setup
-
-Ensure your MongoDB instance is running and accessible. The application will automatically create the necessary collections on first use.
-
-### 5. Seed Initial Data (Optional)
-
-Seed subscription plans:
-
-```bash
-npm run seed:plans
-```
-
-### 6. Run Development Server
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
----
-
-## 📁 Project Structure
-
-```
-thinkingmindserp/
-├── src/
-│   ├── app/                    # Next.js App Router pages
-│   │   ├── (minds)/           # Main application routes
-│   │   │   ├── dashboard/     # Dashboard page
-│   │   │   ├── finance/       # Finance module
-│   │   │   ├── hr/            # HR module
-│   │   │   ├── inventory/     # Inventory module
-│   │   │   ├── pos/           # POS module
-│   │   │   └── ...
-│   │   ├── api/               # API routes
-│   │   └── layout.tsx         # Root layout
-│   ├── _actions/              # Server actions
-│   │   ├── finance.ts
-│   │   ├── payroll.ts
-│   │   ├── inventory-items.ts
-│   │   └── ...
-│   ├── components/            # Reusable components
-│   ├── lib/                   # Utility functions
-│   │   ├── mongodb.ts         # MongoDB connection
-│   │   ├── serialize.ts       # Data serialization
-│   │   └── ...
-│   ├── shared-theme/          # MUI theme configuration
-│   └── types/                 # TypeScript type definitions
-├── public/                    # Static assets
-├── scripts/                   # Utility scripts
-└── package.json
-```
-
----
-
-## 📚 Documentation
-
-### API Logging
-See [API_LOGGING_GUIDE.md](./API_LOGGING_GUIDE.md) for details on API usage logging.
-
-### Paynow Integration
-See [PAYNOW_SETUP.md](./PAYNOW_SETUP.md) for Paynow payment gateway setup instructions.
+</div>
 
 ---
 
 ## 📝 Changelog
 
-### Version 5.0.0 (Current)
+> 📌 **Note**: This repository tracks updates and improvements. See what's new in each version below.
 
-#### Security
-- ✅ **Critical Security Update**: Upgraded to Next.js 15.5.7 to patch CVE-2025-55182 (RCE vulnerability)
+### 🎯 Version 5.0.0 (Current Release)
 
-#### Features
-- 🎨 **UI Improvements**: Flattened and normalized colors across dashboard, removed gradients
-- 📱 **Mobile Optimization**: Enhanced POS checkout with minimize/unminimize functionality
-- 🔄 **Live Data Integration**: All modules now use real-time database connections
-- 💰 **Multi-Currency**: Full support for multiple currencies with live exchange rates
-- 📊 **Enhanced Analytics**: Real-time data visualization across all modules
-- 🎯 **Plan-Aware Components**: UI adapts based on user subscription plan
+<details>
+<summary><b>🔒 Security Updates</b></summary>
 
-#### Modules Updated
-- ✅ **Finance**: Live cashier transactions, daily summaries, payment method analytics
-- ✅ **Payroll**: Real-time payroll records, employee payments, leave requests
-- ✅ **Inventory**: Live stock movements, product tracking, supplier management
-- ✅ **Audit**: Comprehensive audit logs with compliance reporting
-- ✅ **Helpdesk**: Live ticket management, knowledge base, user requests
-- ✅ **POS**: Real-time sales processing with multiple payment methods
+- ✅ **Critical**: Upgraded to Next.js 15.5.7 (CVE-2025-55182 patch)
+- ✅ Enhanced security measures across all modules
+- ✅ Improved authentication and authorization
+</details>
 
-#### Bug Fixes
-- 🔧 Fixed TypeScript type errors in finance and cashier modules
-- 🔧 Resolved merge conflicts in AnalyticsTopRef and Hero components
+<details>
+<summary><b>✨ New Features</b></summary>
+
+- 🎨 **UI Improvements**: Flattened and normalized colors for better consistency
+- 📱 **Mobile Optimization**: Enhanced POS checkout with minimize/unminimize
+- 🔄 **Live Data**: Real-time database connections across all modules
+- 💰 **Multi-Currency**: Full support with live exchange rates
+- 📊 **Enhanced Analytics**: Real-time data visualization
+- 🎯 **Plan-Aware UI**: Dynamic interface based on subscription
+</details>
+
+<details>
+<summary><b>🔄 Modules Updated</b></summary>
+
+| Module | Updates |
+|--------|---------|
+| 💰 **Finance** | Live cashier transactions, daily summaries, payment analytics |
+| 💵 **Payroll** | Real-time records, employee payments, leave requests |
+| 📦 **Inventory** | Live stock movements, product tracking, supplier management |
+| 🔍 **Audit** | Comprehensive logs with compliance reporting |
+| 🎫 **Helpdesk** | Live tickets, knowledge base, user requests |
+| 🛒 **POS** | Real-time sales with multiple payment methods |
+</details>
+
+<details>
+<summary><b>🐛 Bug Fixes</b></summary>
+
 - 🔧 Fixed payment method handling in POS orders
-- 🔧 Corrected data serialization for MongoDB ObjectId and Date types
+- 🔧 Improved data synchronization across modules
+- 🔧 Enhanced mobile responsiveness
+- 🔧 Resolved UI inconsistencies
+</details>
 
-#### UI/UX
-- 🎨 Replaced emoji icons with Material-UI icons throughout
-- 📐 Optimized stat cards sizing and layout
-- 🎨 Unified gradient colors for consistency
+<details>
+<summary><b>🎨 UI/UX Improvements</b></summary>
+
+- 🎨 Replaced emoji icons with professional Material-UI icons
+- 📐 Optimized stat cards for better readability
+- 🎨 Unified color scheme across the platform
 - 📱 Improved mobile responsiveness
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
-3. **Commit your changes** (`git commit -m 'Add some amazing feature'`)
-4. **Push to the branch** (`git push origin feature/amazing-feature`)
-5. **Open a Pull Request**
-
-### Development Guidelines
-
-- Follow TypeScript best practices
-- Use meaningful commit messages
-- Write clean, maintainable code
-- Test your changes thoroughly
-- Update documentation as needed
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+</details>
 
 ---
 
 ## 🆘 Support
 
-### Getting Help
+<div align="center">
 
-- 📧 **Email**: support@thinkingminds.co.zw
-- 🌐 **Website**: [https://thinkingminds.co.zw](https://thinkingminds.co.zw)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/thinking-mindy/thinkingmindserp/issues)
+### 🤝 **We're Here to Help!**
 
-### Demo
+<table>
+<tr>
+<td align="center" width="33%">
 
-- 🚀 **Live Demo**: [https://thinking-minds-demo.vercel.app](https://thinking-minds-demo.vercel.app)
+#### 📧 **Email Support**
+[support@thinkingminds.co.zw](mailto:support@thinkingminds.co.zw)
+
+</td>
+<td align="center" width="33%">
+
+#### 🌐 **Website**
+[thinkingminds.co.zw](https://thinkingminds.co.zw)
+
+</td>
+<td align="center" width="33%">
+
+#### 🐛 **Report Issues**
+[GitHub Issues](https://github.com/thinking-mindy/thinkingmindserp/issues)
+
+</td>
+</tr>
+</table>
+
+### 📚 **Documentation**
+
+- 📖 [API Logging Guide](./API_LOGGING_GUIDE.md)
+- 💳 [Paynow Setup Guide](./PAYNOW_SETUP.md)
+
+</div>
+
+---
+
+## 📢 About This Repository
+
+<div align="center">
+
+> ⚠️ **Important Notice**
+
+This repository is for **information and changelog purposes only**.
+
+| Purpose | Description |
+|---------|-------------|
+| 📋 **Updates** | Track new features and improvements |
+| 📝 **Changelog** | Version history and release notes |
+| 🐛 **Issues** | Report bugs or request features |
+| 📚 **Documentation** | Access user guides and setup instructions |
+
+**❌ This is NOT a code repository for development.**  
+**✅ The software is proprietary and available for purchase.**
+
+</div>
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Built with ❤️ by [Thinking Minds](https://thinkingminds.co.zw)
-- Powered by [Next.js](https://nextjs.org/), [React](https://reactjs.org/), and [Material-UI](https://mui.com/)
+<div align="center">
+
+**Built with ❤️ by [Thinking Minds](https://thinkingminds.co.zw)**
+
+Powered by modern web technologies including Next.js, React, and Material-UI
+
+---
+
+### 🌟 **Made with ❤️ by Thinking Minds**
+
+<table>
+<tr>
+<td align="center">
+<a href="https://thinkingminds.co.zw">🌐 Website</a>
+</td>
+<td align="center">
+<a href="https://github.com/thinking-mindy/thinkingmindserp">💻 GitHub</a>
+</td>
+<td align="center">
+<a href="https://thinking-minds-demo.vercel.app">🚀 Live Demo</a>
+</td>
+<td align="center">
+<a href="mailto:support@thinkingminds.co.zw">📧 Contact</a>
+</td>
+</tr>
+</table>
+
+### 💰 **Purchase Thinking Minds ERP for $149 USD**
+
+[Get Started Today →](mailto:support@thinkingminds.co.zw)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by Thinking Minds**
+**⭐ If you find this project useful, please consider giving it a star!**
 
-[Website](https://thinkingminds.co.zw) • [GitHub](https://github.com/thinking-mindy/thinkingmindserp) • [Documentation](#-documentation)
+</div>
 
 </div>
